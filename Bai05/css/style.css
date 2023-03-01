@@ -1,0 +1,7 @@
+.example1 {
+    background-image: url('../img/gê.jpg'),url('../img/huong-dan-cach-pha-cafe-vot-thom-ngon-dung-chat-sai-gon-202112042052431438.jpg');
+    background-position: right bottom, left top;    
+    background-repeat: no-repeat, repeat;
+    max-width: 1516px;
+    height: 1000px;
+}

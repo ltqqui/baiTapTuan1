@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+body .form{
+    width: 500px;
+    border: 1px solid;
+    box-shadow: 1px 1px 5px 5px rgb(193, 149, 149) ;
+    padding-bottom: 20px;
+    
+}
+body h3{
+    text-align: center;
+    color: red;
+}
+body .form table{
+    font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    /* border-collapse: collapse;             */
+}
+body .form table thead{
+    background-color:#993738 ;
+    color: #fff;
+}
+body .form table tr{
+    padding: 3px ;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+body .form table .b{
+    background-color: rgb(148, 131, 131);
+}

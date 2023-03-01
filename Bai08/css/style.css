@@ -1,0 +1,88 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.container{
+      width: 1024px;
+      margin: auto;
+      text-align: center;
+      vertical-align: middle;
+}
+.box{
+      margin: auto;
+      height: 200px;
+      width: 800px;
+      margin-bottom: 50px;
+      border: 20px solid;
+      border-color:#85C226 #F7C200 #4493A0 #DF127B;
+}
+
+.border-color{
+      border-color:#85C226 #F7C200 #4493A0 #DF127B;
+}
+.border-style{
+      border-style: solid dotted groove double;
+}
+.border-width{
+      border-width: 5px 10px 15px 20px;
+}
+.border-radius{
+      border-radius: 0px 30px 70px 20px;
+      box-shadow: 0 30px 70px 20px;
+      -moz-box-shadow: 0 30px 70px 20px;
+      -webkit-box-shadow: 0 30px 70px 20px;
+}
+
+
+#adv-hemisphere{
+      width: 200px;
+      height: 150px;
+      border-width: 4px 30px 4px 30px;
+      border-style: groove ridge dashed groove;
+      border-color: #cc0000;
+      border-radius: 100px 100px 0 0;
+      -moz-border-radius: 100px 100px 0 0;
+      -webkit-border-radius:100px 100px 0 0;
+}
+
+#round-rectangle{
+      border-radius: 20px;
+      border-color: #F7C200;
+      -moz-border-radius: 20px;
+      -webkit-border-radius: 20px;
+}
+#adv-round-rectangle{
+      width: 250px;
+      height: 100px;
+      border-width: 0 12px 0px 12px;
+      border-style: double;
+      border-color: violet;
+      border-radius: 40px 40px 60px 60px;
+}
+
+#bullet{
+      border-radius: 20px 100px 100px 20px;
+}
+
+#adv-leaf{
+      width: 250px;
+      background-color: orange;
+      border-width: 4px 30px 4px 30px;
+      border-style: solid;
+      border-radius: 0 120px 0 120px;
+}
+
+
+button{
+      width: 200px;
+      padding: 8px;
+      background-color: #214dff;
+      color: #fff;
+      border-radius: 10px;
+      text-align: center;
+      vertical-align: middle;
+      border: 1px solid transparent;
+      font-weight: 900;
+      font-size: 125%;
+}
+

@@ -1,0 +1,51 @@
+.container {
+  width: 225px;
+  background-color: #ffe6e0;
+  border: 1px solid #bfbfbf;
+  font-size: 24px !important;
+  padding: 12px;
+}
+span {
+  display: inline-block;
+  margin: 12px;
+  min-width: 50px;
+}
+.container button {
+  width: 100%;
+  background: #c090ff;
+  border: none;
+  font-size: 18px;
+  height: 36px;
+}
+.colorfull {
+  color: #151315;
+
+  text-shadow: 3px 4px 2px #47ff14, 0px 0px 2px #ff5aba;
+}
+.inset {
+  color: #151315;
+  background-color: #ff5b9d;
+  text-shadow: 0px 0px 0px #ff1486;
+}
+.glossy {
+  background: #cfcfcf;
+  background: linear-gradient(to bottom, #cfcfcf 0%, #cf421f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.double {
+  color: #151315;
+  text-shadow: 5px -6px 3px #ff1486;
+}
+.grunge {
+  color: #000000;
+  font-weight: 500;
+  background: #000000;
+  text-shadow: 5px 0px 3px #ff2f00;
+}
+.neon {
+  color: #002fff;
+  font-weight: 500;
+  background: #000000;
+  text-shadow: 1px 1px 1px #0022ff;
+}

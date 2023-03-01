@@ -1,0 +1,7 @@
+body .wrapper{
+    width: 100%;
+}
+body p{
+    column-count: 3;
+    column-rule: 1px solid lightblue;
+}
